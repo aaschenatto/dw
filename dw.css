@@ -1,0 +1,156 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: #f1f1f1;
+    padding-top: 3vw;
+    align-items: center;
+    padding-bottom: 2vw;
+    margin-bottom: 1vw;
+}
+.pesquisa{
+    width: 25vw;
+    height: 2vw;
+    margin-left: 30vw;
+}
+.barra{
+    background-color: #1a6b2c;
+    width: 90vw;
+    height: 4.5vw;
+    margin: 0 auto;
+}
+.logo{
+    margin-left: 5vw;
+}
+.imagem3{
+    margin-left: 1vw;
+    margin-top: 1vw;
+    width:2.5vw ;
+    height:2.5vw ;
+}
+.texto{
+    display: inline-block;
+    color: white;
+    font-size: 1.22vw;
+}
+.img2{
+    width: 90vw;
+    margin-left:4.5vw ;
+    margin-top: 3vw;
+}
+.img4, .noticias{
+    display: inline-block;
+}
+.noticias{
+    font-size: 3vw;
+}
+.img4{
+    margin-left: 4.5vw;
+}
+.noticiatit {
+    float: right;
+    margin: 30px 1200px 0px 0px;
+    font-size: 24pt;
+    color: rgb(75, 75, 75);
+}
+.noticiaimagens {
+    width: 240px;
+    height: 240px;
+    margin: 20px 0px 0px 130px;
+}
+.h4not1 {
+    float: right;
+    margin: 30px 630px 0px 0px;
+    font-size: 16pt;
+    color: green;
+}
+.h4not2 {
+    float: right;
+    margin: 30px 310px 0px 0px;
+    font-size: 16pt;
+    color: green;
+}
+.pnoticia1 {
+    float: right;
+    margin: -180px 300px 0px 400px;
+    text-align: justify;
+    font-size: 14pt;
+}
+.pnoticia2 {
+    float: right;
+    margin: -180px 300px 0px 400px;
+    text-align: justify;
+    font-size: 14pt;
+    text-decoration: none;
+    color: black;
+}
+.text2{
+    font-size: 3vw;
+    display: inline-block;
+}
+.img7{
+    display: inline-block;
+}
+.img7{
+    margin-left: 4.5vw;
+}
+.img8{
+    display: list-item;
+    width: 30vw;
+    height: 5vw;
+    margin-left: 4.5vw;
+}
+.img9{
+    display: list-item;
+    width: 30vw;
+    height: 5vw;
+    margin-left: 4.5vw;
+    margin-top: 2vw;
+}
+.img10{
+    display: list-item;
+    width: 30vw;
+    height: 5vw;
+    margin-left: 4.5vw;
+    margin-top: 2vw;
+}
+footer{
+    background-color: rgb(199, 63, 54);
+    border: 0%;
+    height: 5vw;
+}
+.text3{
+    color: white;
+    text-align: center;
+}
+.text4{
+    color: white;
+    text-align: center;
+}
+.txt5{
+    font-size: 3vw;
+    margin-left: 5vw;
+}
+.x{
+    width: 25vw;
+    height: 25vw;
+    margin-left: 4.5vw;
+    display: inline-block;
+}
+.txt6{
+    width: 65vw;
+    display: inline-block;
+    margin-left: 2vw;
+    margin-bottom: 5vw;
+    text-align: justify;
+}
+.views{
+    font-size: 1vw;
+    margin-left: 4.5vw;
+    display: inline-block;
+}
+.creditos{
+    margin-left:50vw ;
+    display: inline-block;
+}
